@@ -1,2 +1,4 @@
-package lk.ijse.layered.dao;public enum DaoType {
+package lk.ijse.layered.dao;
+
+public enum DaoType {
 }

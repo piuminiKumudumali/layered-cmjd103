@@ -1,2 +1,4 @@
-package lk.ijse.layered;public class Sample {
+package lk.ijse.layered;
+
+public class Sample {
 }

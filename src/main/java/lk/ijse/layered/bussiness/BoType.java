@@ -1,2 +1,5 @@
-package lk.ijse.layered.bussiness;public enum BoType {
+package lk.ijse.layered.bussiness;
+
+public enum BoType {
+    ITEM, SAMPLE, CUSTOMER
 }
